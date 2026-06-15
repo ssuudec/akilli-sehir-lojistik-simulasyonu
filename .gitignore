@@ -13,3 +13,6 @@ build/
 .idea/
 .vscode/
 *.iml
+
+# local submission link
+github_link.txt
